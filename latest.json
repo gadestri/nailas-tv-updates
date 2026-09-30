@@ -1,7 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.9.13",
+  "versionCode": 23,
+  "versionName": "1.9.14",
   "apkAvailable": true,
   "apkUrl": "https://github.com/gadestri/nailas-tv-updates/releases/latest/download/nailas-tv.apk",
-  "message": "Atualizacao disponivel para download."
+  "message": "Atualizacao disponivel para download.",
+  "sha256": "1dd729bcb87f5a45c1d4ca0dce79d2f487f9e377d0bfd3d435bb6a9e900ff34d"
 }
